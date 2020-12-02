@@ -1,5 +1,0 @@
-pip freeze > requirements.txt --> Cria uma lista de todas as bibliotecas instaladas na venv
-
-py -3 -m venv .venv --> Cria o ambiente virtual de nome venv
-.venv\scripts\activate --> Inicializa o ambiente virtual
-.venv\scripts\deactivate --> Desativa o ambiente virtual

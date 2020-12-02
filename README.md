@@ -1,4 +1,4 @@
 # Reconhecimento_Facial
-Repositório para a disciplina de Aplicações Embarcadas e IOT (Internet das Coisas)
+Repositório para a disciplina de Projeto Interdisciplinar I
 
-Projeto de uma chamada de aula automatizada através da webcam
+Projeto para presença de aluno com api de reconhecimento facial em um container docker e servido através do servidor Heroku (online).
